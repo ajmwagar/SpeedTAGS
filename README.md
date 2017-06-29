@@ -22,7 +22,13 @@ It works by doing the following:
 - Writes are slow
 - Writes are bad for SSDs
 - Memory is blazingly fast
+### Usage
+Open a `.js` `.cs` `.cpp` `.rb` `.coffee` `.clj` or `.c` file. 
+SpeedTAGS with run automagicly
 
+Use 
+`:UpdateTags` 
+to update your tags
 
 ### Installation
 
